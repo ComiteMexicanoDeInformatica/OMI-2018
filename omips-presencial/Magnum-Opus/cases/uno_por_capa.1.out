@@ -1,0 +1,39 @@
+<resultados>
+	<mundos>
+		<mundo nombre="mundo_0">
+			<linea fila="29" compresionDeCeros="true">(1) 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 </linea>
+			<linea fila="28" compresionDeCeros="true">(1) 52 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 52 </linea>
+			<linea fila="27" compresionDeCeros="true">(1) 52 37 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 37 52 </linea>
+			<linea fila="26" compresionDeCeros="true">(1) 52 37 65 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 65 37 52 </linea>
+			<linea fila="25" compresionDeCeros="true">(1) 52 37 65 86 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 86 65 37 52 </linea>
+			<linea fila="24" compresionDeCeros="true">(1) 52 37 65 86 71 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 71 86 65 37 52 </linea>
+			<linea fila="23" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 88 71 86 65 37 52 </linea>
+			<linea fila="22" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="21" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 39 39 39 39 39 39 39 39 39 39 39 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="20" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 12 12 12 12 12 12 12 12 12 12 12 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="19" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 12 27 27 27 27 27 27 27 27 27 12 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="18" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 12 27 72 72 72 72 72 72 72 27 12 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="17" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 12 27 72 20 20 20 20 20 72 27 12 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="16" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 12 27 72 20 33 33 33 20 72 27 12 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="15" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 12 27 72 20 33 1 33 20 72 27 12 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="14" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 12 27 72 20 33 33 33 20 72 27 12 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="13" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 12 27 72 20 20 20 20 20 72 27 12 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="12" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 12 27 72 72 72 72 72 72 72 27 12 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="11" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 12 27 27 27 27 27 27 27 27 27 12 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="10" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 12 12 12 12 12 12 12 12 12 12 12 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="9" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 39 39 39 39 39 39 39 39 39 39 39 39 39 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="8" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 37 88 71 86 65 37 52 </linea>
+			<linea fila="7" compresionDeCeros="true">(1) 52 37 65 86 71 88 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 88 71 86 65 37 52 </linea>
+			<linea fila="6" compresionDeCeros="true">(1) 52 37 65 86 71 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 71 86 65 37 52 </linea>
+			<linea fila="5" compresionDeCeros="true">(1) 52 37 65 86 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 71 86 65 37 52 </linea>
+			<linea fila="4" compresionDeCeros="true">(1) 52 37 65 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 86 65 37 52 </linea>
+			<linea fila="3" compresionDeCeros="true">(1) 52 37 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 65 37 52 </linea>
+			<linea fila="2" compresionDeCeros="true">(1) 52 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 37 52 </linea>
+			<linea fila="1" compresionDeCeros="true">(1) 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 52 </linea>
+		</mundo>
+	</mundos>
+	<programas>
+		<programa nombre="p1" resultadoEjecucion="FIN PROGRAMA"/>
+	</programas>
+</resultados>
+

@@ -1,0 +1,11 @@
+<resultados>
+	<mundos>
+		<mundo nombre="mundo_0"/>
+	</mundos>
+	<programas>
+		<programa nombre="p1" resultadoEjecucion="FIN PROGRAMA">
+			<karel x="5" y="1" direccion="SUR"/>
+		</programa>
+	</programas>
+</resultados>
+

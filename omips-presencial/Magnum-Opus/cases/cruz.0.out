@@ -1,0 +1,31 @@
+<resultados>
+	<mundos>
+		<mundo nombre="mundo_0">
+			<linea fila="21" compresionDeCeros="true">(1) 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 </linea>
+			<linea fila="20" compresionDeCeros="true">(1) 82 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 82 </linea>
+			<linea fila="19" compresionDeCeros="true">(1) 82 60 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 60 82 </linea>
+			<linea fila="18" compresionDeCeros="true">(1) 82 60 68 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 68 60 82 </linea>
+			<linea fila="17" compresionDeCeros="true">(1) 82 60 68 6 39 39 39 39 39 39 39 39 39 39 39 39 39 6 68 60 82 </linea>
+			<linea fila="16" compresionDeCeros="true">(1) 82 60 68 6 39 72 72 72 72 72 72 72 72 72 72 72 39 6 68 60 82 </linea>
+			<linea fila="15" compresionDeCeros="true">(1) 82 60 68 6 39 72 75 75 75 75 75 75 75 75 75 72 39 6 68 60 82 </linea>
+			<linea fila="14" compresionDeCeros="true">(1) 82 60 68 6 39 72 75 55 55 55 55 55 55 55 75 72 39 6 68 60 82 </linea>
+			<linea fila="13" compresionDeCeros="true">(1) 82 60 68 6 39 72 75 55 66 66 66 66 66 55 75 72 39 6 68 60 82 </linea>
+			<linea fila="12" compresionDeCeros="true">(1) 82 60 68 6 39 72 75 55 66 87 87 87 66 55 75 72 39 6 68 60 82 </linea>
+			<linea fila="11" compresionDeCeros="true">(1) 82 60 68 6 39 72 75 55 66 87 93 87 66 55 75 72 39 6 68 60 82 </linea>
+			<linea fila="10" compresionDeCeros="true">(1) 82 60 68 6 39 72 75 55 66 87 87 87 66 55 75 72 39 6 68 60 82 </linea>
+			<linea fila="9" compresionDeCeros="true">(1) 82 60 68 6 39 72 75 55 66 66 66 66 66 55 75 72 39 6 68 60 82 </linea>
+			<linea fila="8" compresionDeCeros="true">(1) 82 60 68 6 39 72 75 55 55 55 55 55 55 55 75 72 39 6 68 60 82 </linea>
+			<linea fila="7" compresionDeCeros="true">(1) 82 60 68 6 39 72 75 75 75 75 75 75 75 75 75 72 39 6 68 60 82 </linea>
+			<linea fila="6" compresionDeCeros="true">(1) 82 60 68 6 39 72 72 72 72 72 72 72 72 72 72 72 39 6 68 60 82 </linea>
+			<linea fila="5" compresionDeCeros="true">(1) 82 60 68 6 39 39 39 39 39 39 39 39 39 39 39 39 39 6 68 60 82 </linea>
+			<linea fila="4" compresionDeCeros="true">(1) 82 60 68 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 68 60 82 </linea>
+			<linea fila="3" compresionDeCeros="true">(1) 82 60 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 68 60 82 </linea>
+			<linea fila="2" compresionDeCeros="true">(1) 82 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 82 </linea>
+			<linea fila="1" compresionDeCeros="true">(1) 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 82 </linea>
+		</mundo>
+	</mundos>
+	<programas>
+		<programa nombre="p1" resultadoEjecucion="FIN PROGRAMA"/>
+	</programas>
+</resultados>
+

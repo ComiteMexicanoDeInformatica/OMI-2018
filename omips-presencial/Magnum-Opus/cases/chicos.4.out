@@ -1,0 +1,27 @@
+<resultados>
+	<mundos>
+		<mundo nombre="mundo_0">
+			<linea fila="17" compresionDeCeros="true">(1) 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 </linea>
+			<linea fila="16" compresionDeCeros="true">(1) 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 </linea>
+			<linea fila="15" compresionDeCeros="true">(1) 5 6 7 7 7 7 7 7 7 7 7 7 7 7 7 6 5 </linea>
+			<linea fila="14" compresionDeCeros="true">(1) 5 6 7 9 9 9 9 9 9 9 9 9 9 9 7 6 5 </linea>
+			<linea fila="13" compresionDeCeros="true">(1) 5 6 7 9 8 8 8 8 8 8 8 8 8 9 7 6 5 </linea>
+			<linea fila="12" compresionDeCeros="true">(1) 5 6 7 9 8 4 4 4 4 4 4 4 8 9 7 6 5 </linea>
+			<linea fila="11" compresionDeCeros="true">(1) 5 6 7 9 8 4 3 3 3 3 3 4 8 9 7 6 5 </linea>
+			<linea fila="10" compresionDeCeros="true">(1) 5 6 7 9 8 4 3 2 2 2 3 4 8 9 7 6 5 </linea>
+			<linea fila="9" compresionDeCeros="true">(1) 5 6 7 9 8 4 3 2 1 2 3 4 8 9 7 6 5 </linea>
+			<linea fila="8" compresionDeCeros="true">(1) 5 6 7 9 8 4 3 2 2 2 3 4 8 9 7 6 5 </linea>
+			<linea fila="7" compresionDeCeros="true">(1) 5 6 7 9 8 4 3 3 3 3 3 4 8 9 7 6 5 </linea>
+			<linea fila="6" compresionDeCeros="true">(1) 5 6 7 9 8 4 4 4 4 4 4 4 8 9 7 6 5 </linea>
+			<linea fila="5" compresionDeCeros="true">(1) 5 6 7 9 8 8 8 8 8 8 8 8 8 9 7 6 5 </linea>
+			<linea fila="4" compresionDeCeros="true">(1) 5 6 7 9 9 9 9 9 9 9 9 9 9 9 7 6 5 </linea>
+			<linea fila="3" compresionDeCeros="true">(1) 5 6 7 7 7 7 7 7 7 7 7 7 7 7 7 6 5 </linea>
+			<linea fila="2" compresionDeCeros="true">(1) 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 </linea>
+			<linea fila="1" compresionDeCeros="true">(1) 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 </linea>
+		</mundo>
+	</mundos>
+	<programas>
+		<programa nombre="p1" resultadoEjecucion="FIN PROGRAMA"/>
+	</programas>
+</resultados>
+

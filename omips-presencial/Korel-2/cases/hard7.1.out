@@ -1,0 +1,13 @@
+<resultados>
+	<mundos>
+		<mundo nombre="mundo_0">
+			<linea fila="17" compresionDeCeros="true">(11) 16 </linea>
+		</mundo>
+	</mundos>
+	<programas>
+		<programa nombre="p1" resultadoEjecucion="FIN PROGRAMA">
+			<karel x="11" y="17" direccion="NORTE"/>
+		</programa>
+	</programas>
+</resultados>
+
